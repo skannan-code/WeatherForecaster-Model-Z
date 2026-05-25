@@ -13,4 +13,3 @@ As of now, WeatherForecaster is available to record the data of many cities all 
 <h2>👋</h2>
 
 <h1>Thanks for Reading! Try my demo link in the "Demo Link" file attached.</h1>
-<img src="https://media.tenor.com/cv7t69yhNYwAAAAM/peace-out-bye.gif" width="250" alt="Peace Out" />
